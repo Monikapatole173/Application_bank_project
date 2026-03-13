@@ -1,0 +1,30 @@
+[32mINFO    [0m root:test_registrationpage.py:56 launching registration page url: https://apps.credence.in/user.html....
+[32mINFO    [0m root:test_registrationpage.py:59 Setting user name....................
+[32mINFO    [0m root:test_registrationpage.py:61 Setting password as : PS4dD1w)h+D@12....................
+[32mINFO    [0m root:test_registrationpage.py:63 Setting email....................
+[32mINFO    [0m root:test_registrationpage.py:65 Setting phone number....................
+[32mINFO    [0m root:test_registrationpage.py:67 Clicking on Create user button....................
+[32mINFO    [0m root:test_registrationpage.py:70 Create user button clicked successfully....................
+[32mINFO    [0m root:test_registrationpage.py:73 getting user created text: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff62ac84455
+	0x7ff62ac844b0
+	0x7ff62aa1d49d
+	0x7ff62aa782fe
+	0x7ff62aa7860c
+	0x7ff62aac8b67
+	0x7ff62aac5728
+	0x7ff62aa68e38
+	0x7ff62aa69d23
+	0x7ff62af53b60
+	0x7ff62af4e3e8
+	0x7ff62af6e75a
+	0x7ff62aca0805
+	0x7ff62aca97ac
+	0x7ff62ac8d7b4
+	0x7ff62ac8d966
+	0x7ff62ac73477
+	0x7ffbd98a7374
+	0x7ffbda7dcc91
+....................

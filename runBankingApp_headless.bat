@@ -1,0 +1,2 @@
+call "D:\software Testing\Cred Automation testing 2025\07_BankingApp_Framework\.venv\Scripts\activate.bat"
+python -m pytest -s -v -cov --browser "headless" --html=".\HtmlReports\BankingApp_html_report_headless_27_Feb_2026.html"  --alluredir=AllureReports
