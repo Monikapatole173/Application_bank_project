@@ -1,0 +1,23 @@
+venv/
+__pycache__/
+*.pyc
+
+AllureReports/
+allure-results/
+allure-report/
+reports/
+
+# HTML Reports
+HtmlReports/
+
+# Logs
+Logs/
+
+# Screenshots
+Screenshots/
+
+# IntelliJ / PyCharm
+.idea/
+
+# OS files
+.DS_Store
